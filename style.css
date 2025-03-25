@@ -16,6 +16,17 @@ li{
     padding: 0px 10px 0px 10px
 }
 header{
-    text-align:center;
-    background:
+    text-align: center;
+    background-color:#577399;
+    background-size:cover;
+    padding:20px 0px 0px 0px
+}
+
+h1{
+    font-size:80px
+    color:white;
+}
+
+#headerPic{
+    margin: 40px 0px 0px 0px
 }
