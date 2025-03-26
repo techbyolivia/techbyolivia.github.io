@@ -30,3 +30,6 @@ h1{
 #headerPic{
     margin: 40px 0px 0px 0px
 }
+img{
+    border: 20px white;
+}
